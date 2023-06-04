@@ -1,0 +1,7 @@
+ul {
+    list-style-image: url("icons8-star-filled-20.png");
+}
+
+li {
+    font-size: 20px;
+}
